@@ -1,1 +1,3 @@
-# Farmbridge
+# farmbridge_app
+
+A new Flutter project.
